@@ -6,6 +6,8 @@
 
 [Requirements and Installation](#Requirements-and-Installation)
 
+[Java Packages](#Java-Packages)
+
 [Application components](#Application-components)
 
 [Sample output](#Sample-output)
@@ -26,3 +28,60 @@ This project management system must be able to do the following:
 5. Update the project fee paid to date;
 6. View completed, incomplete or overdue projects;
 7. Finalize existing projects and write finalized projects to a text file.
+
+# Requirements and Installation #
+
+To run and test this code you require the following software:
+
+__- The Java Development Kit v17 or higher:__
+    - To download the JDK, click on the following: *https://www.oracle.com/java/technologies/downloads/*
+    
+__- Eclipse IDE:__
+    - To download Eclipse, click on the following: *https://www.eclipse.org/downloads/*
+
+# Java Packages #
+
+  The following packages are imported into the below .java files:
+   __1. Project.java packages:__
+   - java.util.Date
+   
+   __2. ProjectManager.java packages:__
+   - java.util.Scanner;
+   - java.util.ArrayList;
+   
+   __3. ProjectCapturing.java packages:__
+   - java.text.ParseException;
+   - java.text.SimpleDateFormat;
+   - java.util.Date
+   - java.util.InputMismatchException;
+   
+   __4. ProjectStatus.java packages:__
+   - java.util.Date
+   
+   __5. ProjectUpdates.java packages:__
+   - java.util.Date
+   - java.io.BufferedWriter;
+   - java.io.FileWriter;
+   - java.io.IOException;
+   - java.text.ParseException;
+   - java.text.SimpleDateFormat;
+   
+   __6. ReadProjects.java packages:__
+   - java.util.ArrayList;
+   - java.io.BufferedWriter;
+   - java.io.FileReader;
+   - java.io.IOException;
+   - java.text.ParseException;
+   - java.text.SimpleDateFormat;
+   
+   __7. FinalizeProject.java packages:__
+   - java.io.BufferedWriter;
+   - java.io.FileWriter;
+   - java.io.IOException;
+   - java.util.Date;
+
+   
+
+  
+  
+
