@@ -19,10 +19,10 @@ about its projects, constructors, customers and architects.
 
 This project management system must be able to do the following:
 
-____1. Read details about exisiting projects from a text file;__
-____2. Capture details about new projects;___
-____3. Update the due date of existing projects;___
-____4. Update the contractor's contact number or email address of an existing project;___
-____5. Update the project fee paid to date;___
-____6. View completed, incomplete or overdue projects;___
-____7. Finalize existing projects and write finalized projects to a text file.___
+1. Read details about exisiting projects from a text file;
+2. Capture details about new projects;
+3. Update the due date of existing projects;
+4. Update the contractor's contact number or email address of an existing project;
+5. Update the project fee paid to date;
+6. View completed, incomplete or overdue projects;
+7. Finalize existing projects and write finalized projects to a text file.
