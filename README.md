@@ -18,10 +18,11 @@ In this Capstone Project, I designed a project management system for a small str
 about its projects, constructors, customers and architects. 
 
 This project management system must be able to do the following:
-____1. Read details about exisiting projects from a text file;
-____2. Capture details about new projects;
-____3. Update the due date of existing projects;
-____4. Update the contractor's contact number or email address of an existing project;
-____5. Update the project fee paid to date;
-____6. View completed, incomplete or overdue projects;
-____7. Finalize existing projects and write finalized projects to a text file. 
+
+____1. Read details about exisiting projects from a text file;__
+____2. Capture details about new projects;___
+____3. Update the due date of existing projects;___
+____4. Update the contractor's contact number or email address of an existing project;___
+____5. Update the project fee paid to date;___
+____6. View completed, incomplete or overdue projects;___
+____7. Finalize existing projects and write finalized projects to a text file.___
