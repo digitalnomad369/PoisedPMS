@@ -183,6 +183,7 @@ __- Eclipse IDE:__
   # License and Copyright #
 
  License and Copyright
+ 
  (c) Tammy-Lee Bastian
 
  Licensed under the [MIT License](LICENSE)
