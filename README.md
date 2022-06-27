@@ -42,8 +42,8 @@ __- Eclipse IDE:__
 # Java Packages #
 
  The following packages are imported into the below .java files:
+ 
    __1. Project.java packages:__
-   
    - java.util.Date
    
    __2. ProjectManager.java packages:__
