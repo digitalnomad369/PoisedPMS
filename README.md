@@ -86,6 +86,7 @@ __- Eclipse IDE:__
    This application comprises 8 .java files:
    
    __1. Person.java:__
+   
      - The Person class is used to create person objects for the customer, architect and contractor. 
      - This class will be used to store the following person attributes: __name, surname, phone number, email address and physical address.__
      - Create constructor to invoke above attribute arguments. 
@@ -97,6 +98,7 @@ __- Eclipse IDE:__
 ![person_class2](https://user-images.githubusercontent.com/102178512/175906577-6840bd71-ad10-4f92-8b89-c560180bab91.jpg)
 
 __2. Project.java__
+
      - The Project class is used to create project objects
      - This class will be used to store the following information relevant to each project: __project number, project name, ERF number, project type, physical address
        of project, total fee for project, amount paid for project, project due date, project completion status and date of completion.__
