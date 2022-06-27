@@ -126,7 +126,30 @@ __2. Project.java__
   ![output6_projectmanager](https://user-images.githubusercontent.com/102178512/175910337-31098281-b4b5-489e-aa13-37d4854d871d.jpg)
   ![output7_projectmanager](https://user-images.githubusercontent.com/102178512/175910426-120daee8-caa4-47aa-abe3-5dcbd1f501b2.jpg)
 
+ __4. ReadProjects.java:__
+ 
+     - This class enables a user to read details of existing projects from text files 
+       and uses these details to create project objects saved to a list 
+     - It also handles potential IOExceptions should no existing project objects exist in the text file. 
+     
+ __5. ProjectCapturing.java:__
+  
+    - This class uses the captureProject() method to capture details of, and create new projects and people objects of the Person class.
+  
+  __6. ProjectUpdates.java:__
+  
+    - This class is used to update various project details.
+    - It consists of the following static methods:  
+            1. updateDueDate() and dueDateUpdate() - These methods are called when a user wants to update an existing project's deadline date.
+            2. updateFeePaid() and paidFeeUpdate() - These methods are called when a user wants to update the amount paid to date of an existing project. 
+            3. updateContractorDetails() and contractorDetailsUpdate() - These methods are called in order to update the contact details (email address and
+               phone number of the contractor.
+               
 
+ # Contributors #
+ 
+ Tammy-Lee Bastian, HyperionDev
+ tammyleebastian@gmail.com
 
 
 
