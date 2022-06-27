@@ -179,6 +179,10 @@ __2. Project.java__
  
  tammyleebastian@gmail.com
 
+ License and Copyright
+ (c) Tammy-Lee Bastian
+
+ Licensed under MIT License
 
 
 
