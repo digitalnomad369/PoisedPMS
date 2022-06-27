@@ -103,8 +103,38 @@ __2. Project.java__
      - Create constructor to invoke above attribute arguments. 
      - Create __set__ methods to edit the project name, due date, project completion status, amount paid to date and completion date. 
      - Create __toString__ method to display all attributes of the Project class.
+
+![project_class1](https://user-images.githubusercontent.com/102178512/175906753-f8d2df4b-9846-4497-a35f-84d8885de9cb.jpg)
+
+![project_class2](https://user-images.githubusercontent.com/102178512/175906785-1b9df84b-6839-4e11-9121-c42e05071704.jpg)
+
+![project_class3](https://user-images.githubusercontent.com/102178512/175906827-5379538a-92e4-4a2f-93b9-eee1e648dc50.jpg)
+
+ __3. ProjectManager.java:__
+ 
+     - This source file is the main method of the program.
+     - This program presents the user with a menu.
+     - Based on the user's selection, this program uses switch(case) statements to call the applicable methods from the relevant method files. 
      
-    
+  # Sample output: #
+  
+  ![output1_projectmanager](https://user-images.githubusercontent.com/102178512/175909927-4c805a55-ffe8-491c-bb4f-4358ca894523.jpg)
+  ![output2_projectmanager](https://user-images.githubusercontent.com/102178512/175909962-d8d3d1ce-6d22-4535-a2d6-6e25ca3198d4.jpg)
+  ![output3_projectmanager](https://user-images.githubusercontent.com/102178512/175910067-5e4c6835-cbfa-48d3-aa82-aeb454f25271.jpg)
+  ![output4_projectmanager](https://user-images.githubusercontent.com/102178512/175910145-275fe746-bca7-44e9-b22e-1ba22527e703.jpg)
+  ![output5_projectmanager](https://user-images.githubusercontent.com/102178512/175910228-9cebb2f7-12b4-478e-b8e6-6a0a87168054.jpg)
+  ![output6_projectmanager](https://user-images.githubusercontent.com/102178512/175910337-31098281-b4b5-489e-aa13-37d4854d871d.jpg)
+  ![output7_projectmanager](https://user-images.githubusercontent.com/102178512/175910426-120daee8-caa4-47aa-abe3-5dcbd1f501b2.jpg)
+
+
+
+
+
+
+  
+
+
+  
 
 
      
