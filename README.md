@@ -93,6 +93,7 @@ __- Eclipse IDE:__
      - Create __toString__ method to display all attributes of the Person class. 
      
 ![person_class1](https://user-images.githubusercontent.com/102178512/175906540-da811b9e-8bbc-40d9-b782-23e15db9e5a4.jpg)
+
 ![person_class2](https://user-images.githubusercontent.com/102178512/175906577-6840bd71-ad10-4f92-8b89-c560180bab91.jpg)
 
 __2. Project.java__
