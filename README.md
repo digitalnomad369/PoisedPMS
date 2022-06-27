@@ -92,9 +92,8 @@ __- Eclipse IDE:__
      - Create __set__ methods to edit the phone number and email address of person objects. 
      - Create __toString__ method to display all attributes of the Person class. 
      
-     ![person_class1]https://user-images.githubusercontent.com/102178512/175905689-bd50ad9c-fbdf-49dd-b2e4-7e38b5b63d89.jpg)
-
-
+     ![person_class1](https://user-images.githubusercontent.com/102178512/175906089-839b823d-0798-4ba0-9d58-abd889bde619.jpg)
+     ![person_class2](https://user-images.githubusercontent.com/102178512/175906149-a2644700-d9c2-4583-9939-386b96a149f4.jpg)
      
 __2. Project.java__
      - The Project class is used to create project objects
