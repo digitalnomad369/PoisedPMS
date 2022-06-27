@@ -160,8 +160,19 @@ __2. Project.java__
              2. incompleteProjects() - This method is called when a user wants to view all incomplete projects. 
              3. overdueProjects() - This method is called when a user wants to view all overdue projects 
                 (projects that were either completed after the deadline date OR projects that have a due date prior to the current date)
+                
+  __8. FinalizeProject.java:__
+  
+    - This class is used to finalize a project or to view the outstanding project fee payable. 
+    - This class consists of the following methods:
+            1. finalizeProject() - If a user wishes to finalize a particular project, 
+               if there is an outstanding payable fee, the viewFeeDifference() method is called and the customer
+               details are shown along with the payable fee. 
                
-
+               If there is no outstanding fee, the noFeeDifference() method is called and the setProjectCompleted() 
+               method set the project to "Finalized" and all the details of the completed project is written to 
+               a text file called "Completed project.txt".
+               
  # Contributors #
  
  Tammy-Lee Bastian, HyperionDev
