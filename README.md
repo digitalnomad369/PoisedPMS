@@ -114,7 +114,8 @@ __2. Project.java__
  
      - This source file is the main method of the program.
      - This program presents the user with a menu.
-     - Based on the user's selection, this program uses switch(case) statements to call the applicable methods from the relevant method files. 
+     - Based on the user's selection, this program uses switch(case) statements to call the 
+       applicable methods from the relevant method files. 
      
   # Sample output: #
   
@@ -147,6 +148,15 @@ __2. Project.java__
                date of an existing project. 
             3. updateContractorDetails() and contractorDetailsUpdate() - These methods are called in order to update the 
                contact details (email address and phone number) of the contractor.
+               
+  __7. ProjectStatus.java:__
+  
+    - This class is used to see the project completion status of existing projects. 
+    - It comprises the following 3 methods: 
+             1. completedProjects() - This method is called when a user wants to view all completed projects. 
+             2. incompleteProjects() - This method is called when a user wants to view all incomplete projects. 
+             3. overdueProjects() - This method is called when a user wants to view all overdue projects 
+                (projects that were either completed after the deadline date OR projects that have a due date prior to the current date)
                
 
  # Contributors #
