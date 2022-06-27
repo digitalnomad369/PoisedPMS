@@ -92,8 +92,8 @@ __- Eclipse IDE:__
      - Create __set__ methods to edit the phone number and email address of person objects. 
      - Create __toString__ method to display all attributes of the Person class. 
      
-     ![person_class1](https://user-images.githubusercontent.com/102178512/175903957-4e204d79-ec6f-47ad-8f69-02214a3eb2b1.jpg)
-     ![person_class2](https://user-images.githubusercontent.com/102178512/175904034-d877b2ab-3fd8-4900-bdf8-6dd1650f94e3.jpg)
+     ![person_class1].(https://user-images.githubusercontent.com/102178512/175903957-4e204d79-ec6f-47ad-8f69-02214a3eb2b1.jpg)
+     ![person_class2].(https://user-images.githubusercontent.com/102178512/175904034-d877b2ab-3fd8-4900-bdf8-6dd1650f94e3.jpg)
      
 __2. Project.java__
      - The Project class is used to create project objects
@@ -104,9 +104,9 @@ __2. Project.java__
      - Create __set__ methods to edit the project name, due date, project completion status, amount paid to date and completion date. 
      - Create __toString__ method to display all attributes of the Project class.
      
-     ![project_class1](https://user-images.githubusercontent.com/102178512/175905040-b92717bf-0850-48c5-8b18-5671133353d5.jpg)
-     ![project_class2](https://user-images.githubusercontent.com/102178512/175905091-7df4e86a-0905-4b97-b300-7f4f55ef7601.jpg)
-     ![project_class3](https://user-images.githubusercontent.com/102178512/175905167-d200c9e5-690a-4d7d-87c2-24a71afcbe74.jpg)
+     ![project_class1].(https://user-images.githubusercontent.com/102178512/175905040-b92717bf-0850-48c5-8b18-5671133353d5.jpg)
+     ![project_class2].(https://user-images.githubusercontent.com/102178512/175905091-7df4e86a-0905-4b97-b300-7f4f55ef7601.jpg)
+     ![project_class3].(https://user-images.githubusercontent.com/102178512/175905167-d200c9e5-690a-4d7d-87c2-24a71afcbe74.jpg)
 
 
 
