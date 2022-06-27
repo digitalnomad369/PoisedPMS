@@ -134,16 +134,19 @@ __2. Project.java__
      
  __5. ProjectCapturing.java:__
   
-    - This class uses the captureProject() method to capture details of, and create new projects and people objects of the Person class.
+    - This class uses the captureProject() method to capture details of, and create new projects and people objects of the 
+      Person class.
   
   __6. ProjectUpdates.java:__
   
     - This class is used to update various project details.
     - It consists of the following static methods:  
-            1. updateDueDate() and dueDateUpdate() - These methods are called when a user wants to update an existing project's deadline date.
-            2. updateFeePaid() and paidFeeUpdate() - These methods are called when a user wants to update the amount paid to date of an existing project. 
-            3. updateContractorDetails() and contractorDetailsUpdate() - These methods are called in order to update the contact details (email address and
-               phone number of the contractor.
+            1. updateDueDate() and dueDateUpdate() - These methods are called when a user wants to update an existing project's 
+               deadline date.
+            2. updateFeePaid() and paidFeeUpdate() - These methods are called when a user wants to update the amount paid to 
+               date of an existing project. 
+            3. updateContractorDetails() and contractorDetailsUpdate() - These methods are called in order to update the 
+               contact details (email address and phone number) of the contractor.
                
 
  # Contributors #
