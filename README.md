@@ -92,8 +92,8 @@ __- Eclipse IDE:__
      - Create __set__ methods to edit the phone number and email address of person objects. 
      - Create __toString__ method to display all attributes of the Person class. 
      
-     ![person_class1](https://user-images.githubusercontent.com/102178512/175902900-a2efa2cf-8007-4c3e-b247-438def93637c.png)
-     ![person_class2](https://user-images.githubusercontent.com/102178512/175902834-d7d506c4-5689-4a8f-be8d-4c137350f94c.png)
+     ![person_class1].(https://user-images.githubusercontent.com/102178512/175902900-a2efa2cf-8007-4c3e-b247-438def93637c.png)
+     ![person_class2].(https://user-images.githubusercontent.com/102178512/175902834-d7d506c4-5689-4a8f-be8d-4c137350f94c.png)
      
 
      
