@@ -182,7 +182,7 @@ __2. Project.java__
  License and Copyright
  (c) Tammy-Lee Bastian
 
- Licensed under the [MIT LICENSE]
+ Licensed under the [MIT License]
 
 
   
