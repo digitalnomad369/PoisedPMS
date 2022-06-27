@@ -41,7 +41,7 @@ __- Eclipse IDE:__
 
 # Java Packages #
 
-  The following packages are imported into the below .java files:
+ The following packages are imported into the below .java files:
    __1. Project.java packages:__
    - java.util.Date
    
@@ -97,7 +97,7 @@ __- Eclipse IDE:__
 
 ![person_class2](https://user-images.githubusercontent.com/102178512/175906577-6840bd71-ad10-4f92-8b89-c560180bab91.jpg)
 
-__2. Project.java__
+  __2. Project.java__
 
      - The Project class is used to create project objects
      - This class will be used to store the following information relevant to each project: __project number, project name, ERF number, project type, physical address
@@ -136,8 +136,8 @@ __2. Project.java__
        and uses these details to create project objects saved to a list 
      - It also handles potential IOExceptions should no existing project objects exist in the text file. 
      
- __5. ProjectCapturing.java:__
-  
+  __5. ProjectCapturing.java:__
+   
     - This class uses the captureProject() method to capture details of, and create new projects and people objects of the 
       Person class.
   
@@ -178,6 +178,8 @@ __2. Project.java__
  Tammy-Lee Bastian, HyperionDev
  
  tammyleebastian@gmail.com
+ 
+  # License and Copyright #
 
  License and Copyright
  (c) Tammy-Lee Bastian
