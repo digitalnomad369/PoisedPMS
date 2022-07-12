@@ -1,4 +1,4 @@
-# JAVA CAPSTONE PROJECT III - Object-Oriented-Programming 
+# PoisedPMS v.1
 
 # TABLE OF CONTENTS #
 
